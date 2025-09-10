@@ -1,1 +1,0 @@
-# Kubernetes_Demo_for_Voting_App
